@@ -1,0 +1,15 @@
+{
+  "name": "flickr",
+  "version": "0.0.1",
+  "description": "scrape flickr api for URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Helm",
+  "license": "ISC",
+  "dependencies": {
+    "flickrapi": "^0.3.28",
+    "inquirer": "^0.8.0"
+  }
+}
